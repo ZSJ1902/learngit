@@ -1,3 +1,3 @@
-hello
-author
+init hello
+add author
 
